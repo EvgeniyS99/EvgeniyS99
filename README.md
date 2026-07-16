@@ -2,9 +2,11 @@
 
 I'm an **ML/AI Engineer** with 3.5+ years of experience building production-oriented machine learning systems across **computer vision, time-series modeling, and LLM applications**.
 
+Most of the production systems I have worked on are proprietary and cannot be published due to company confidentiality policies. My production contributions are maintained in internal GitLab repositories. This profile therefore highlights selected independent projects, educational materials, and open-source work that reflect how I design and build ML systems.
+
 My main interests include end-to-end ML pipelines, agentic workflows, RAG, model serving, backend integration, and reliable production ML systems.
 
-## Featured Project
+## Featured Projects
 
 ### [Math Tutor](https://github.com/EvgeniyS99/math_tutor)
 
@@ -18,6 +20,14 @@ The project includes:
 - support for open-source model serving with vLLM, TGI, and Ollama.
 
 **Tech stack:** Python, FastAPI, LangGraph, PostgreSQL, vLLM, TGI, Ollama
+
+### University Navigator — Coming Soon
+
+A LangGraph-based assistant for university applicants and students.
+
+The project combines program matching, required-document checklists, and a RAG assistant over official university admission rules and educational documents.
+
+**Tech stack:** Python, FastAPI, LangGraph, RAG, PostgreSQL
 
 ## Courses I Designed and Authored
 
@@ -43,16 +53,6 @@ A practical Python course that I **designed, authored, and delivered internally 
 - multiprocessing, IPC, and process pools;
 - asynchronous programming with `asyncio`;
 - networking, WSGI, ASGI, and FastAPI-based asynchronous services.
-
-## Coming Soon
-
-### University Navigator
-
-A LangGraph-based assistant for university applicants and students.
-
-The project combines program matching, required-document checklists, and a RAG assistant over official university admission rules and educational documents.
-
-**Tech stack:** Python, FastAPI, LangGraph, RAG, PostgreSQL
 
 ## Learning and Experimental Projects
 
