@@ -44,7 +44,7 @@ A practical LLM engineering course that I **designed and taught at ITMO Universi
 
 The repository contains the course structure, presentations, practical materials, and examples used in the program.
 
-### [Python Concurrency and Async Services](https://github.com/EvgeniyS99/multithreading_multiprocessing_asyncio_course)
+### [Python Concurrency Course](https://github.com/EvgeniyS99/python-concurrency-course)
 
 A practical Python course that I **designed, authored, and delivered internally to employees at my company**, with presentations, notebooks, runnable examples, quizzes, and exercises. It covers:
 
