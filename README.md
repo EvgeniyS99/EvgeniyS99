@@ -1,13 +1,13 @@
-# Hi, I'm Evgeniy Strievich 👋
+# Hi, I'm Evgenii Strievich 👋
 
 I'm an **ML/AI Engineer** with 3.5+ years of experience building production-oriented machine learning systems across **computer vision, time-series modeling, and LLM applications**.
 
-This profile contains selected projects, educational courses, and open-source contributions related to:
+This profile contains selected projects, courses I designed and authored, and open-source contributions related to:
 
 * agentic LLM applications, RAG, and evaluation;
 * FastAPI-based ML and LLM services;
-* computer vision architectures, segmentation, and seismic denoising;
-* from-scratch deep learning and classical ML experiments;
+* from-scratch computer vision architectures, image segmentation, and seismic denoising;
+* classical machine learning, statistics, and experimental analysis;
 * Python concurrency and backend engineering.
 
 Most of the production systems I have worked on are proprietary and cannot be published due to company confidentiality policies. My production contributions are maintained in internal GitLab repositories. The projects presented here demonstrate similar engineering approaches through independent applications, educational materials, and open-source contributions.
@@ -41,38 +41,31 @@ The project combines program matching, required-document checklists, and a RAG a
 
 A practical LLM engineering course that I **designed and taught at ITMO University**. It covers:
 
-* transformer architecture and inference;
-* KV cache, quantization, and inference optimization;
-* open-source model serving;
+* transformer architecture, KV cache, quantization, and inference optimization;
+* open-source model serving with vLLM, TGI, and Ollama;
 * LangChain and LangGraph workflows;
 * FastAPI-based LLM services;
+* interactive user interfaces for LLM applications with Gradio;
+* tracing, observability, and evaluation with Langfuse;
 * agentic applications and production-oriented LLM system design.
-
-The repository contains the course structure, presentations, practical materials, and examples used in the program.
-
-### [Python Concurrency Course](https://github.com/EvgeniyS99/python-concurrency-course)
-
-A practical LLM engineering course that I designed and taught at ITMO University. It covers:
-
-transformer architecture, KV cache, quantization, and inference optimization;
-open-source model serving with vLLM, TGI, and Ollama;
-LangChain and LangGraph workflows;
-FastAPI-based LLM services;
-interactive user interfaces for LLM applications with Gradio;
-tracing, observability, and evaluation with Langfuse;
-agentic applications and production-oriented LLM system design.
 
 The repository contains course presentations, practical materials, runnable examples, and exercises covering the development, evaluation, and deployment of complete LLM applications.
 
-## Learning and Experimental Projects
+### [Python Concurrency Course](https://github.com/EvgeniyS99/python-concurrency-course)
+
+A practical Python course that I **created and delivered for engineers at my company**. It includes presentations, notebooks, runnable examples, quizzes, and exercises covering:
+
+* operating-system and CPU fundamentals;
+* multithreading and synchronization;
+* multiprocessing, IPC, and process pools;
+* asynchronous programming with `asyncio`;
+* networking, WSGI, ASGI, and FastAPI-based asynchronous services.
+
+## Selected ML Projects
 
 ### [ConvNet Architectures and Seismic Denoising](https://github.com/EvgeniyS99/convnet-architectures-and-seismic-denoising)
 
-From-scratch implementations of core convolutional neural network architectures, accompanied by experiments exploring their internal design and behavior. One of the implemented architectures was applied to build a seismic data denoising solution.
-
-### [Machine Learning Experiments](https://github.com/EvgeniyS99/machine-learning-experiments)
-
-A collection of practical machine learning experiments covering classical ML, model evaluation, statistics, feature engineering, and experimental analysis.
+From-scratch implementations of core convolutional neural network architectures, accompanied by experiments exploring their internal design and behavior. One of the implemented architectures was applied to build and evaluate a seismic data denoising solution.
 
 ## Open Source
 
@@ -81,4 +74,4 @@ I have contributed to [BatchFlow](https://github.com/analysiscenter/batchflow), 
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/evgenii-strievich-463b083ba/)
-* [Email]: estrievich99@gmail.com
+* Email: [estrievich99@gmail.com](mailto:estrievich99@gmail.com)
