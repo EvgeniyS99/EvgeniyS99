@@ -53,7 +53,7 @@ The repository contains course presentations, practical materials, runnable exam
 
 ### [Python Concurrency Course](https://github.com/EvgeniyS99/python-concurrency-course)
 
-A practical Python course that I **created and delivered for engineers at my company**. It includes presentations, notebooks, runnable examples, quizzes, and exercises covering:
+A practical Python course that I designed and delivered internally at Gazprom Neft. It includes presentations, notebooks, runnable examples, quizzes, and exercises covering:
 
 * operating-system and CPU fundamentals;
 * multithreading and synchronization;
