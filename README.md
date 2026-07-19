@@ -25,7 +25,7 @@ The project includes:
 * a PostgreSQL-backed repository of solved problems;
 * support for open-source model serving with vLLM, TGI, and Ollama.
 
-**Tech stack:** Python, FastAPI, LangGraph, PostgreSQL, vLLM, TGI, Ollama
+**Tech stack:** Python, FastAPI, LangChain/LangGraph, PostgreSQL, vLLM, TGI, Ollama
 
 ### University Navigator — Coming Soon
 
@@ -33,7 +33,7 @@ A LangGraph-based assistant for university applicants and students.
 
 The project combines program matching, required-document checklists, and a RAG assistant over official university admission rules and educational documents.
 
-**Tech stack:** Python, FastAPI, LangGraph, RAG, PostgreSQL
+**Tech stack:** Python, FastAPI, LangChain/LangGraph, RAG, PostgreSQL
 
 ## Courses I Designed and Authored
 
