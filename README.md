@@ -7,7 +7,6 @@ This profile contains selected projects, courses I designed and authored, and op
 * agentic LLM applications, RAG, and evaluation;
 * FastAPI-based ML and LLM services;
 * from-scratch computer vision architectures, image segmentation, and seismic denoising;
-* classical machine learning, statistics, and experimental analysis;
 * Python concurrency and backend engineering.
 
 Most of the production systems I have worked on are proprietary and cannot be published due to company confidentiality policies. My production contributions are maintained in internal GitLab repositories. The projects presented here demonstrate similar engineering approaches through independent applications, educational materials, and open-source contributions.
